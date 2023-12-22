@@ -1,0 +1,12 @@
+Title: [Your Invention's Name]
+
+1. Description:
+Write a comprehensive description of your invention. This should include how it works, its intended use, and any unique features. You can refer to the descriptions provided in the 'conceptualize_invention.txt' and 'document_invention.txt' files. 
+
+2. Claims:
+Clearly outline the aspects of your invention that you wish to protect. These claims define the scope of your patent protection. Be specific and detailed in your claims, as this will determine what aspects of your invention are protected by the patent.
+
+3. Drawings:
+Include professional drawings or diagrams of your invention. These should be clear, detailed, and accurately represent your invention. You can use the blueprints created in KiCAD as part of this section. 
+
+Remember, this document is meant to prepare your patent application. It should be thorough and include all relevant information, as it will be used to support your patent application. It's often advisable to seek assistance from a patent attorney or agent to ensure your application is correctly prepared.

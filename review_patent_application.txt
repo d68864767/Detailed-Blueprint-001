@@ -1,0 +1,18 @@
+Title: Reviewing Your Patent Application
+
+1. Review the Application:
+After you have filed your patent application, it's important to review it thoroughly. This includes checking the title, description, claims, and drawings. Make sure all the information is accurate and complete. You can use the 'file_patent_application.py' script to load your application and review it.
+
+2. Respond to Office Actions:
+During the review process, the patent examiner may issue "office actions" which are official communications requiring clarifications or adjustments to your application. It's important to respond to these promptly and accurately. Keep a record of all communications and responses.
+
+3. Seek Legal Assistance:
+The patent review process can be complex and it's often advisable to seek assistance from a patent attorney or agent. They can help you navigate the complexities of patent law and ensure your application is correctly prepared and reviewed.
+
+4. Confidentiality:
+Remember to keep your invention confidential until a patent application is filed. This includes not disclosing the details of your invention publicly or privately without appropriate protections in place.
+
+5. International Patents:
+If you wish to protect your invention in multiple countries, consider filing an international application under the Patent Cooperation Treaty (PCT). This can be a complex process and it's often advisable to seek legal assistance.
+
+Remember, the patent review process can be lengthy and requires patience. Stay organized, keep detailed records, and don't hesitate to seek professional help if needed.
